@@ -1,0 +1,926 @@
+body {
+    background: #e6f7f6 !important;
+    text-align: center;
+}
+
+b {
+    color: #CA6B7D;
+}
+
+.card {
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    /* margin: 63% 4% 17% 20%; */
+    margin-top: 29% !important;
+    /* bottom: 20%; */
+    left: 22%;
+    margin-top: 25px;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card2 {
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    /* margin: 63% 4% 17% 20%; */
+    margin-top: 18% !important;
+    /* bottom: 20%; */
+    left: 31%;
+    margin-top: 25px;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card3 {
+
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    /* margin: 63% 4% 17% 20%; */
+    margin-top: 55% !important;
+    /* bottom: 20%; */
+    left: 54%;
+    margin-top: 25px;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card4 {
+
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    margin-top: 13% !important;
+    /* bottom: 20%; */
+    left: 28%;
+    margin-top: 25px;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card5 {
+
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    /* margin: 63% 4% 17% 20%; */
+    margin-top: 57% !important;
+    /* bottom: 20%; */
+    left: 12%;
+    margin-top: 25px;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card6 {
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    margin-top: 106% !important;
+    /* bottom: 20%; */
+    left: -4%;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.arrawToSmartHospital {
+    position: absolute;
+}
+
+.card:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}
+
+.smartFarmcardColor {
+    background: #70739E !important;
+    color: #fff;
+}
+
+
+.smartGridColor {
+    background: #D0B467 !important;
+    color: #fff;
+}
+
+.smartParkingColor {
+    background: #E699C7 !important;
+    color: #fff;
+}
+
+.ModernMedicine {
+    background: #97E4F1 !important;
+    color: #fff;
+}
+
+.smartFarmColor {
+    background: #A4CD7C !important;
+    color: #fff;
+}
+
+.smartParkColor {
+    background:
+        #f0ada0 !important;
+    color: #fff;
+}
+
+.card1 {
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    top: 110%;
+    position: absolute;
+    left: 25%;
+    width: 350px;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    background: #567865;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card1:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}
+
+.card-3 {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.mainCardImage {
+    width: 190px;
+    height: 135px;
+    float: left;
+}
+
+.subcardImage {
+    width: 190px;
+    height: 133px;
+    float: left;
+}
+
+.subcardImage2 {
+    width: 190px;
+    height: 135px;
+    float: left;
+}
+
+.cardBody {
+    position: absolute;
+    top: 40px;
+    bottom: 0;
+    left: 200px;
+}
+
+.cardBody2 {
+    position: absolute;
+    top: 40px;
+    bottom: 0;
+    right: 13px;
+    width: 146px;
+}
+
+.MaincardBody {
+    position: absolute;
+    top: 29px;
+    right: -5px;
+    width: 170px;
+}
+
+.cardvideoIcons {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 38px;
+    cursor: pointer;
+}
+
+.cardDescIcons {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.cardvideoIcons2 {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 43px;
+
+    cursor: pointer;
+}
+
+.cardDescIcons2 {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 15px;
+    cursor: pointer;
+}
+
+.modalCLose {
+    width: 30px;
+    height: 29px;
+    border-radius: 50%;
+    background: #e83e8c;
+    position: absolute;
+    right: -16px;
+    margin-top: -16px;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.CloseButtonX {
+    position: absolute;
+    right: 10px;
+    top: 2px;
+    color: white;
+}
+
+.Canvas1 {
+    position: absolute;
+    top: 139%;
+    z-index: 9;
+    right: 48%;
+    z-index: -1;
+}
+
+.Canvas2 {
+    position: absolute;
+    bottom: -116%;
+    left: 15%;
+    width: 341px;
+    z-index: -1;
+}
+
+.Canvas3 {
+    position: absolute;
+    top: 83%;
+    right: 58%;
+    z-index: -1;
+}
+
+.Canvas4 {
+    position: absolute;
+    bottom: -113%;
+    right: -45%;
+    width: 355px;
+    z-index: -1;
+}
+
+.Canvas5 {
+    position: absolute;
+    top: 139%;
+    z-index: 9;
+    right: -34%;
+    z-index: -1;
+}
+
+.toSmartHospital {
+    position: absolute;
+    height: 493px;
+    width: 172px;
+    left: 0%;
+    top: -15%;
+    transform: rotate(68deg);
+}
+
+.modal-body {
+    background: #f5dddc !important;
+}
+
+.arrawToIot {
+    position: absolute;
+    width: 84px;
+    height: 230px;
+    left: 21px;
+    top: 13%;
+    transform: rotate(64deg);
+}
+
+.arrawToLaser {
+    position: absolute;
+    width: 84px;
+    height: 336px;
+    left: 20px;
+    top: 27%;
+    transform: rotate(42deg);
+}
+
+.arrawToRobotics {
+    position: absolute;
+    width: 84px;
+    height: 388px;
+    left: 26px;
+    top: 66%;
+    transform: rotate(22deg);
+}
+
+.arrawToAI {
+    z-index: -1;
+    position: absolute;
+    width: 84px;
+    height: 290px;
+    right: -117px;
+    top: 20%;
+    transform: rotate(-51deg);
+}
+
+.arrawToMobile {
+    position: absolute;
+    width: 84px;
+    height: 388px;
+    right: -59px;
+    top: 63%;
+    transform: rotate(-25deg);
+    z-index: -1;
+}
+
+@media only screen and (min-width : 1824px) {
+    .arrawToIot {
+        position: absolute !important;
+        width: 84px  !important;
+        height: 384px  !important;
+        left: 21px ;
+        top: -9%;
+        transform: rotate(68deg);
+    }
+
+    .arrawToLaser {
+        position: absolute;
+        width: 84px;
+        height: 389px;
+        left: 20px;
+        top: 27%;
+        transform: rotate(42deg);
+    }
+
+    .arrawToRobotics {
+        position: absolute;
+        width: 84px;
+        height: 478px;
+        left: 26px;
+        top: 61%;
+        transform: rotate(27deg);
+    }
+
+    .arrawToAI {
+        z-index: -1;
+        position: absolute;
+        width: 84px;
+        height: 368px;
+        right: -101px;
+        top: 20%;
+        transform: rotate(-58deg);
+    }
+
+    .arrawToMobile {
+        position: absolute;
+        width: 84px;
+        height: 475px;
+        right: -20px;
+        top: 63%;
+        transform: rotate(-25deg);
+        z-index: -1;
+    }
+
+    .Canvas3 {
+        position: absolute;
+        top: 83%;
+        right: 58%;
+        z-index: -1;
+        width: 63%;
+    }
+
+    .Canvas1 {
+        position: absolute;
+        top: 139%;
+        z-index: 9;
+        right: 48%;
+        z-index: -1;
+        width: 67%;
+    }
+
+    .Canvas2 {
+        position: absolute;
+        bottom: -116%;
+        left: 4%;
+        width: 341px;
+        z-index: -1;
+        width: 70%;
+    }
+
+    .Canvas4 {
+        position: absolute;
+        top: 139%;
+        z-index: 9;
+        right: -54%;
+        z-index: -1;
+        width: 81%;
+    }
+
+    .Canvas5 {
+        position: absolute;
+        top: 139%;
+        z-index: 9;
+        right: -34%;
+        z-index: -1;
+        width: 62%;
+    }
+}
+
+@media only screen and (min-width : 1900px) {
+    .arrawToIot {
+        position: absolute;
+        width: 84px;
+        height: 430px;
+        left: 21px;
+        top: -15%;
+        transform: rotate(68deg);
+    }
+
+    .arrawToLaser {
+        position: absolute;
+        width: 84px;
+        height: 439px;
+        left: 20px;
+        top: 27%;
+        transform: rotate(42deg);
+    }
+
+    .arrawToRobotics {
+        position: absolute;
+        width: 84px;
+        height: 495px;
+        left: 26px;
+        top: 61%;
+        transform: rotate(27deg);
+    }
+
+    .arrawToAI {
+        z-index: -1;
+        position: absolute;
+        width: 84px;
+        height: 388px;
+        right: -101px;
+        top: 20%;
+        transform: rotate(-58deg);
+    }
+
+    .arrawToMobile {
+        position: absolute;
+        width: 84px;
+        height: 498px;
+        right: -20px;
+        top: 63%;
+        transform: rotate(-25deg);
+        z-index: -1;
+    }
+
+    .Canvas3 {
+        position: absolute;
+        top: 83%;
+        right: 58%;
+        z-index: -1;
+        width: 69%;
+    }
+
+    .Canvas1 {
+        position: absolute;
+        top: 139%;
+        z-index: 9;
+        right: 48%;
+        z-index: -1;
+        width: 67%;
+    }
+
+    .Canvas2 {
+        position: absolute;
+        bottom: -116%;
+        left: 4%;
+        width: 341px;
+        z-index: -1;
+        width: 70%;
+    }
+
+    .Canvas4 {
+        position: absolute;
+        top: 139%;
+        z-index: 9;
+        right: -54%;
+        z-index: -1;
+        width: 81%;
+    }
+
+    .Canvas5 {
+        position: absolute;
+        top: 139%;
+        z-index: 9;
+        right: -34%;
+        z-index: -1;
+        width: 62%;
+    }
+}
+
+@media only screen and (min-width : 2000px) {
+    .arrawToIot {
+        position: absolute;
+        width: 84px;
+        height: 467px;
+        left: 21px;
+        top: -19%;
+        transform: rotate(75deg);
+    }
+
+    .arrawToLaser {
+        position: absolute;
+        width: 84px;
+        height: 502px;
+        left: 20px;
+        top: 10%;
+        transform: rotate(51deg);
+    }
+
+    .arrawToRobotics {
+        position: absolute;
+        width: 84px;
+        height: 519px;
+        left: 26px;
+        top: 61%;
+        transform: rotate(27deg);
+    }
+
+    .arrawToAI {
+        z-index: -1;
+        position: absolute;
+        width: 84px;
+        height: 432px;
+        right: -87px;
+        top: 15%;
+        transform: rotate(-58deg);
+    }
+
+    .arrawToMobile {
+        position: absolute;
+        width: 84px;
+        height: 529px;
+        right: -20px;
+        top: 63%;
+        transform: rotate(-25deg);
+        z-index: -1;
+    }
+
+    .Canvas3 {
+        position: absolute;
+        top: 83%;
+        right: 58%;
+        z-index: -1;
+        width: 69%;
+    }
+
+    .Canvas1 {
+        position: absolute;
+        top: 139%;
+        z-index: 9;
+        right: 48%;
+        z-index: -1;
+        width: 71%;
+    }
+
+    .Canvas2 {
+        position: absolute;
+        bottom: -116%;
+        left: 1%;
+        width: 341px;
+        z-index: -1;
+        width: 74%;
+    }
+
+    .Canvas4 {
+        position: absolute;
+        top: 139%;
+        z-index: 9;
+        right: -46%;
+        z-index: -1;
+        width: 81%;
+    }
+
+    .Canvas5 {
+        position: absolute;
+        top: 139%;
+        z-index: 9;
+        right: -34%;
+        z-index: -1;
+        width: 62%;
+    }
+}
+
+@media only screen and (min-width : 1600px) {
+    .arrawToIot {
+        position: absolute !important;
+        width: 16% !important;
+        height: 153%  !important;
+        left: 10%  !important;
+        top: -31%  !important;
+        transform: rotate(75deg)  !important;
+    }
+
+    .arrawToLaser {
+        position: absolute  !important;
+        width: 84px  !important;
+        height: 155%  !important;
+        left: -3%  !important;
+        top: 10%  !important;
+        transform: rotate(51deg)  !important;
+    }
+
+    .arrawToRobotics {
+        position: absolute  !important;
+        width: 14%  !important;
+        height: 158%  !important;
+        left: 7%  !important;
+        top: 61%  !important;
+        transform: rotate(27deg)  !important;
+    }
+
+    .arrawToAI {
+        z-index: -1  !important;
+        position: absolute  !important;
+        width: 16%  !important;
+        height: 129%  !important;
+        right: -15%  !important;
+        top: 15%  !important;
+        transform: rotate(-58deg)  !important;
+    }
+
+    .arrawToMobile {
+        position: absolute  !important;
+        width: 16%  !important;
+        height: 158%  !important;
+        right: -3%  !important;
+        top: 63%  !important;
+        transform: rotate(-25deg)  !important;
+        z-index: -1  !important;
+    }
+
+    .Canvas3 {
+        position: absolute  !important;
+        top: 83%  !important;
+        right: 58%  !important;
+        z-index: -1  !important;
+        width: 69%  !important;
+    }
+
+    .Canvas1 {
+        position: absolute  !important;
+        top: 139%  !important;
+        z-index: 9  !important;
+        right: 48%  !important;
+        z-index: -1  !important;
+        width: 71%  !important;
+    }
+
+    .Canvas2 {
+        position: absolute  !important;
+        bottom: -116%  !important;
+        left: 1%  !important;
+        width: 341px  !important;
+        z-index: -1  !important;
+        width: 74%  !important;
+    }
+
+    .Canvas4 {
+        position: absolute  !important;
+        top: 139%  !important;
+        z-index: 9  !important;
+        right: -46%  !important;
+        z-index: -1  !important;
+        width: 81%  !important;
+    }
+
+    .Canvas5 {
+        position: absolute  !important;
+        top: 139%  !important;
+        z-index: 9  !important;
+        right: -34%  !important;
+        z-index: -1  !important;
+        width: 62%  !important;
+    }
+}
+
+@media only screen and (min-width : 1536px) {
+    .arrawToIot {
+        position: absolute  !important;
+        width: 16%  !important;
+        height: 113%  !important;
+        left: -3%  !important;
+        top: 9%  !important;
+        transform: rotate(75deg)  !important;
+    }
+
+    .arrawToLaser {
+        position: absolute  !important;
+        width: 16%  !important;
+        height: 156%  !important;
+        left: 1%  !important;
+        top: 10%  !important;
+        transform: rotate(51deg)  !important;
+    }
+
+    .arrawToRobotics {
+        position: absolute  !important;
+        width: 16%  !important;
+        height: 160%  !important;
+        left: 10%  !important;
+        top: 61%  !important;
+        transform: rotate(27deg)  !important;
+    }
+
+    .arrawToAI {
+        z-index: -1  !important;
+        position: absolute  !important;
+        width: 18%  !important;
+        height: 132%  !important;
+        right: -10%  !important;
+        top: 15%  !important;
+        transform: rotate(-58deg)  !important;
+    }
+
+    .arrawToMobile {
+        position: absolute  !important;
+        width: 16%  !important;
+        height: 170%  !important;
+        right: 0%  !important;
+        top: 55%  !important;
+        transform: rotate(-25deg)  !important;
+        z-index: -1  !important;
+    }
+
+    .Canvas3 {
+        position: absolute  !important;
+        top: 83%  !important;
+        right: 58%  !important;
+        z-index: -1  !important;
+        width: 69%  !important;
+    }
+
+    .Canvas1 {
+        position: absolute  !important;
+        top: 139%  !important;
+        z-index: 9  !important;
+        right: 48%  !important;
+        z-index: -1  !important;
+        width: 71%  !important;
+    }
+
+    .Canvas2 {
+        position: absolute  !important;
+        bottom: -116%  !important;
+        left: 1%  !important;
+        width: 341px  !important;
+        z-index: -1  !important;
+        width: 74%  !important;
+    }
+
+    .Canvas4 {
+        position: absolute  !important;
+        top: 139%  !important;
+        z-index: 9  !important;
+        right: -46%  !important;
+        z-index: -1  !important;
+        width: 81%  !important;
+    }
+
+    .Canvas5 {
+        position: absolute  !important;
+        top: 139%  !important;
+        z-index: 9  !important;
+        right: -34%  !important;
+        z-index: -1  !important;
+        width: 62%  !important;
+    }
+}
+
+ @media only screen and (min-width : 1440px) {
+    .arrawToIot {
+        position: absolute !important;
+    width: 16% !important;
+    height: 77% !important;
+    left: 4% !important;
+    top: 18% !important;
+    transform: rotate(75deg) !important;
+    }
+
+    .arrawToLaser {
+        position: absolute !important;
+        width: 16% !important;
+        height: 152% !important;
+        left: 10% !important;
+        top: 10% !important;
+        transform: rotate(51deg) !important;
+    }
+
+    .arrawToRobotics {
+        position: absolute !important;
+        width: 16% !important;
+        height: 150% !important;
+        left: 10% !important;
+        top: 61% !important;
+        transform: rotate(27deg) !important;
+    }
+
+    .arrawToAI {
+        z-index: -1 !important;
+        position: absolute !important;
+        width: 16% !important;
+        height: 119% !important;
+        right: -19% !important;
+        top: 15% !important;
+        transform: rotate(-58deg) !important;
+    }
+
+    .arrawToMobile {
+        position: absolute !important;
+        width: 16% !important;
+        height: 141% !important;
+        right: -10% !important;
+        top: 63% !important;
+        transform: rotate(-25deg) !important;
+        z-index: -1 !important;
+    }
+
+    .Canvas3 {
+        position: absolute !important;
+        top: 83% !important;
+        right: 58% !important;
+        z-index: -1 !important;
+        width: 69% !important;
+    }
+
+    .Canvas1 {
+        position: absolute !important;
+        top: 139% !important;
+        z-index: 9 !important;
+        right: 48% !important;
+        z-index: -1 !important;
+        width: 71% !important;
+    }
+
+    .Canvas2 {
+        position: absolute !important;
+        bottom: -116% !important;
+        left: 1% !important;
+        width: 341px !important;
+        z-index: -1 !important;
+        width: 74% !important;
+    }
+
+    .Canvas4 {
+        position: absolute !important;
+        top: 139% !important;
+        z-index: 9 !important;
+        right: -46% !important;
+        z-index: -1 !important;
+        width: 81% !important;
+    }
+
+    .Canvas5 {
+        position: absolute !important;
+        top: 139% !important;
+        z-index: 9 !important;
+        right: -34% !important;
+        z-index: -1 !important;
+        width: 62% !important;
+    }
+}
