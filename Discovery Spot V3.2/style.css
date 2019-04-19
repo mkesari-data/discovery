@@ -1,0 +1,744 @@
+body {
+    background: #e6f7f6 !important;
+    text-align: center;
+}
+
+b {
+    color: #CA6B7D;
+}
+
+.card {
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    /* margin: 63% 4% 17% 20%; */
+    margin-top: 29% !important;
+    /* bottom: 20%; */
+    left: 22%;
+    margin-top: 25px;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card2 {
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    /* margin: 63% 4% 17% 20%; */
+    margin-top: 18% !important;
+    /* bottom: 20%; */
+    left: 31%;
+    margin-top: 25px;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card3 {
+
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    /* margin: 63% 4% 17% 20%; */
+    margin-top: 55% !important;
+    /* bottom: 20%; */
+    left: 54%;
+    margin-top: 25px;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card4 {
+
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    margin-top: 13% !important;
+    /* bottom: 20%; */
+    left: 28%;
+    margin-top: 25px;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card5 {
+
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    /* margin: 63% 4% 17% 20%; */
+    margin-top: 57% !important;
+    /* bottom: 20%; */
+    left: 12%;
+    margin-top: 25px;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card6 {
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    margin-top: 106% !important;
+    /* bottom: 20%; */
+    left: -4%;
+    position: absolute;
+    width: 350px;
+    font-size: 15px;
+    font-weight: 600;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.arrawToSmartHospital {
+    position: absolute;
+}
+
+.card:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}
+
+.smartFarmcardColor {
+    background: #70739E !important;
+    color: #fff;
+}
+
+
+.smartGridColor {
+    background: #D0B467 !important;
+    color: #fff;
+}
+
+.smartParkingColor {
+    background: #E699C7 !important;
+    color: #fff;
+}
+
+.ModernMedicine {
+    background: #97E4F1 !important;
+    color: #fff;
+}
+
+.smartFarmColor {
+    background: #A4CD7C !important;
+    color: #fff;
+}
+
+.smartParkColor {
+    background:
+        #f0ada0 !important;
+    color: #fff;
+}
+
+.card1 {
+    background: #fff;
+    border-radius: 2px;
+    display: inline-block;
+    height: 135px;
+    top: 110%;
+    position: absolute;
+    left: 25%;
+    width: 350px;
+    font-size: 14px;
+    font-weight: 700;
+    color: white;
+    background: #567865;
+    font-style: italic;
+    transition: box-shadow 0.4s, transform 0.5s;
+}
+
+.card1:hover {
+    transform: scale(1);
+    box-shadow: 5px 40px 60px rgba(0, 0, 0, 0.2);
+}
+
+.card-3 {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
+}
+
+.mainCardImage {
+    width: 190px;
+    height: 135px;
+    float: left;
+}
+
+.subcardImage {
+    width: 190px;
+    height: 133px;
+    float: left;
+}
+
+.subcardImage2 {
+    width: 190px;
+    height: 135px;
+    float: left;
+}
+
+.cardBody {
+    position: absolute;
+    top: 40px;
+    bottom: 0;
+    left: 200px;
+}
+
+.cardBody2 {
+    position: absolute;
+    top: 40px;
+    bottom: 0;
+    right: 13px;
+    width: 146px;
+}
+
+.MaincardBody {
+    position: absolute;
+    top: 29px;
+    right: -5px;
+    width: 170px;
+}
+
+.cardvideoIcons {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 38px;
+    cursor: pointer;
+}
+
+.cardDescIcons {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 10px;
+    cursor: pointer;
+}
+
+.cardvideoIcons2 {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 43px;
+
+    cursor: pointer;
+}
+
+.cardDescIcons2 {
+    position: absolute;
+    width: 19px;
+    bottom: 7px;
+    right: 15px;
+    cursor: pointer;
+}
+
+.modalCLose {
+    width: 30px;
+    height: 29px;
+    border-radius: 50%;
+    background: #e83e8c;
+    position: absolute;
+    right: -16px;
+    margin-top: -16px;
+    cursor: pointer;
+    z-index: 1;
+}
+
+.CloseButtonX {
+    position: absolute;
+    right: 10px;
+    top: 2px;
+    color: white;
+}
+
+.Canvas1 {
+    position: absolute;
+    top: 139%;
+    z-index: 9;
+    right: 48%;
+    z-index: -1;
+}
+
+.Canvas2 {
+    position: absolute;
+    bottom: -116%;
+    left: 15%;
+    width: 341px;
+    z-index: -1;
+}
+
+.Canvas3 {
+    position: absolute;
+    top: 83%;
+    right: 58%;
+    z-index: -1;
+}
+
+.Canvas4 {
+    position: absolute;
+    bottom: -113%;
+    right: -45%;
+    width: 355px;
+    z-index: -1;
+}
+
+.Canvas5 {
+    position: absolute;
+    top: 139%;
+    z-index: 9;
+    right: -34%;
+    z-index: -1;
+}
+
+.toSmartHospital {
+    position: absolute;
+    height: 493px;
+    width: 172px;
+    left: 0%;
+    top: -15%;
+    transform: rotate(68deg);
+}
+
+.modal-body {
+    background: #f5dddc !important;
+}
+
+.arrawToIot {
+    position: absolute;
+    width: 84px;
+    height: 230px;
+    left: 21px;
+    top: 13%;
+    transform: rotate(64deg);
+}
+
+.arrawToLaser {
+    position: absolute;
+    width: 84px;
+    height: 336px;
+    left: 20px;
+    top: 27%;
+    transform: rotate(42deg);
+}
+
+.arrawToRobotics {
+    position: absolute;
+    width: 84px;
+    height: 388px;
+    left: 26px;
+    top: 66%;
+    transform: rotate(22deg);
+}
+
+.arrawToAI {
+    z-index: -1;
+    position: absolute;
+    width: 84px;
+    height: 290px;
+    right: -117px;
+    top: 20%;
+    transform: rotate(-51deg);
+}
+
+.arrawToMobile {
+    position: absolute;
+    width: 84px;
+    height: 388px;
+    right: -59px;
+    top: 63%;
+    transform: rotate(-25deg);
+    z-index: -1;
+}
+
+
+
+@media (max-width: 1920px) and (max-height: 1080px) {
+
+    .arrawToIot {
+        position: absolute;
+        width: 16%;
+        height: 129%;
+        left: -1%;
+        top: -6%;
+        transform: rotate(70deg);
+    }
+
+    .arrawToLaser {
+        position: absolute;
+        width: 16%;
+        height: 163%;
+        left: -1%;
+        top: 7%;
+        transform: rotate(54deg);
+    }
+
+    .arrawToRobotics {
+        position: absolute;
+        width: 16%;
+        height: 161%;
+        left: 7%;
+        top: 58%;
+        z-index: -1;
+        transform: rotate(22deg);
+    }
+
+    .arrawToAI {
+        z-index: -1;
+        position: absolute;
+        width: 16%;
+        height: 129%;
+        right: -16%;
+        top: 12%;
+        transform: rotate(-51deg);
+    }
+
+    .arrawToMobile {
+        position: absolute;
+        width: 16%;
+        height: 162%;
+        right: -4%;
+        top: 63%;
+        transform: rotate(-25deg);
+        z-index: -1;
+    }
+
+    .Canvas1 {
+        position: absolute;
+        top: 139%;
+        z-index: 9;
+        right: 48%;
+        z-index: -1;
+        width: 69%;
+    }
+
+    .Canvas2 {
+        position: absolute;
+        bottom: -116%;
+        left: 4%;
+        width: 76%;
+        z-index: -1;
+    }
+
+    .Canvas3 {
+        position: absolute;
+        top: 83%;
+        right: 58%;
+        z-index: -1;
+        width: 65%;
+    }
+
+    .Canvas4 {
+        position: absolute;
+        bottom: -139%;
+        right: -45%;
+        width: 100%;
+        z-index: -1;
+    }
+
+    .Canvas5 {
+        position: absolute;
+        top: 139%;
+        z-index: 9;
+        right: -34%;
+        z-index: -1;
+        width: 59%;
+    }
+}
+
+
+
+@media (max-width: 1600px) and (max-height: 900px) {
+
+    .arrawToIot {
+        position: absolute;
+        width: 16%;
+        height: 119%;
+        left: 11%;
+        top: -8%;
+        transform: rotate(70deg);
+    }
+
+    .arrawToLaser {
+        position: absolute;
+        width: 16%;
+        height: 123%;
+        left: 3%;
+        top: 27%;
+        transform: rotate(42deg);
+    }
+
+    .arrawToRobotics {
+        position: absolute;
+        width: 16%;
+        height: 144%;
+        left: 7%;
+        top: 66%;
+        z-index: -1;
+        transform: rotate(22deg);
+    }
+
+    .arrawToAI {
+        z-index: -1;
+        position: absolute;
+        width: 16%;
+        height: 108%;
+        right: -20%;
+        top: 20%;
+        transform: rotate(-51deg);
+    }
+
+    .arrawToMobile {
+        position: absolute;
+        width: 16%;
+        height: 145%;
+        right: -13%;
+        top: 63%;
+        transform: rotate(-25deg);
+        z-index: -1;
+    }
+}
+
+@media (max-width: 1536px) and (max-height: 864px) {
+
+    .arrawToIot {
+        position: absolute;
+        width: 16%;
+        height: 111%;
+        left: 12%;
+        top: -5%;
+        transform: rotate(70deg);
+    }
+
+    .arrawToLaser {
+        position: absolute;
+        width: 16%;
+        height: 120%;
+        left: 4%;
+        top: 29%;
+        transform: rotate(42deg);
+    }
+
+    .arrawToRobotics {
+        position: absolute;
+        width: 16%;
+        height: 142%;
+        left: 10%;
+        top: 66%;
+        z-index: -1;
+        transform: rotate(22deg);
+    }
+
+    .arrawToAI {
+        z-index: -1;
+        position: absolute;
+        width: 16%;
+        height: 105%;
+        right: -20%;
+        top: 20%;
+        transform: rotate(-51deg);
+    }
+
+    .arrawToMobile {
+        position: absolute;
+        width: 16%;
+        height: 141%;
+        right: -13%;
+        top: 63%;
+        transform: rotate(-25deg);
+        z-index: -1;
+    }
+}
+
+@media (max-width: 1440px) and (max-height: 900px) {
+
+    .arrawToIot {
+        position: absolute;
+        width: 16%;
+        height: 90%;
+        left: 12%;
+        top: 6%;
+        transform: rotate(70deg);
+    }
+
+    .arrawToLaser {
+        position: absolute;
+        width: 16%;
+        height: 121%;
+        left: 42px;
+        top: 27%;
+        transform: rotate(42deg);
+    }
+
+    .arrawToRobotics {
+        position: absolute;
+        width: 16%;
+        height: 138%;
+        left: 10%;
+        top: 66%;
+        z-index: -1;
+        transform: rotate(22deg);
+    }
+
+    .arrawToAI {
+        z-index: -1;
+        position: absolute;
+        width: 16%;
+        height: 102%;
+        right: -20%;
+        top: 20%;
+        transform: rotate(-51deg);
+    }
+
+    .arrawToMobile {
+        position: absolute;
+        width: 16%;
+        height: 135%;
+        right: -13%;
+        top: 63%;
+        transform: rotate(-25deg);
+        z-index: -1;
+    }
+
+    .Canvas4 {
+        position: absolute;
+        bottom: -132%;
+        right: -45%;
+        width: 94%;
+        z-index: -1;
+    }
+}
+
+@media (max-width: 1400px) and (max-height: 900px) {
+
+    .arrawToIot {
+        position: absolute;
+        width: 16%;
+        height: 73%;
+        left: 12%;
+        top: 6%;
+        transform: rotate(70deg);
+    }
+
+    .arrawToLaser {
+        position: absolute;
+        width: 16%;
+        height: 120%;
+        left: 42px;
+        top: 27%;
+        transform: rotate(42deg);
+    }
+
+    .arrawToRobotics {
+        position: absolute;
+        width: 16%;
+        height: 136%;
+        left: 26px;
+        top: 66%;
+        z-index: -1;
+        transform: rotate(22deg);
+    }
+
+    .arrawToAI {
+        z-index: -1;
+        position: absolute;
+        width: 16%;
+        height: 98%;
+        right: -20%;
+        top: 20%;
+        transform: rotate(-51deg);
+    }
+
+    .arrawToMobile {
+        position: absolute;
+        width: 16%;
+        height: 130%;
+        right: -13%;
+        top: 63%;
+        transform: rotate(-25deg);
+        z-index: -1;
+    }
+
+    .Canvas4 {
+        position: absolute;
+        bottom: -132%;
+        right: -45%;
+        width: 94%;
+        z-index: -1;
+    }
+}
+
+@media (max-width: 1280px) and (max-height: 800px) {
+
+    .arrawToIot {
+        position: absolute;
+        width: 16%;
+        height: 61%;
+        left: 14%;
+        top: 27%;
+        transform: rotate(64deg);
+    }
+
+    .arrawToLaser {
+        position: absolute;
+        width: 16%;
+        height: 120%;
+        left: 42px;
+        top: 27%;
+        transform: rotate(42deg);
+    }
+
+    .arrawToRobotics {
+        position: absolute;
+        width: 16%;
+        height: 133%;
+        left: 26px;
+        top: 66%;
+        z-index: -1;
+        transform: rotate(22deg);
+    }
+
+    .arrawToAI {
+        z-index: -1;
+        position: absolute;
+        width: 16%;
+        height: 94%;
+        right: -20%;
+        top: 20%;
+        transform: rotate(-51deg);
+    }
+
+    .arrawToMobile {
+        position: absolute;
+        width: 16%;
+        height: 124%;
+        right: -13%;
+        top: 63%;
+        transform: rotate(-25deg);
+        z-index: -1;
+    }
+
+    .Canvas4 {
+        position: absolute;
+        bottom: -132%;
+        right: -45%;
+        width: 94%;
+        z-index: -1;
+    }
+}
